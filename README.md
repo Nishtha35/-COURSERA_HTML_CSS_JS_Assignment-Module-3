@@ -2,13 +2,6 @@
 
 Coursera course: [HTML, CSS, and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers)
 
-Woo-hoo! MORE CODING!!! Exciting! :-)
-
-**Time to complete:** About 1 hour or less.
-
-**Ask questions in Discussions if you get stuck! We are all learning, and going through getting stuck and then unstuck (even with someone's help) can be a very valuable learning experience!**
-
-**Don't get scared by the number of points below.**  **Most of it is NOT graded and is optional for you to try on your own.**
 
 Here is what you will need to complete the assignment:
 
