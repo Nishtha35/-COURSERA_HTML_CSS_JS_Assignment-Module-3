@@ -1,1 +1,1 @@
-# -COURSERA_HTML_CSS_JS_Assignment-Module-3
+# COURSERA_HTML_CSS_JS_Assignment-Module-3
