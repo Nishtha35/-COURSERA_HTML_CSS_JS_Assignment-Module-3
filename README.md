@@ -44,7 +44,7 @@ Both the tablet view and the desktop view of what's graded and required is the s
  ![Desktop and Tablet](images/desktop.png)
 
 
-Here is the mockup illustration of the mobile view (only required graded parts are shown):
+Here is the mockup illustrations of the mobile view (only required graded parts are shown):
 
  ![mobile collapsed](images/menu-collapsed.png)
 
